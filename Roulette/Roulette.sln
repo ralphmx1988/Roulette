@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roulette", "Roulette.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette.Core", "..\Roulette.Core\Roulette.Core.csproj", "{4957BC39-3277-451F-B250-14FB159A0957}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette.Services", "..\Roulette.Services\Roulette.Services.csproj", "{B808820A-293E-45EB-832F-5CDE42810B7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4957BC39-3277-451F-B250-14FB159A0957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4957BC39-3277-451F-B250-14FB159A0957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4957BC39-3277-451F-B250-14FB159A0957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B808820A-293E-45EB-832F-5CDE42810B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B808820A-293E-45EB-832F-5CDE42810B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B808820A-293E-45EB-832F-5CDE42810B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B808820A-293E-45EB-832F-5CDE42810B7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
